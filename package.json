@@ -1,0 +1,13 @@
+{
+  "name": "rally-threejs",
+  "version": "1.0.0",
+  "description": "Browser rally racing game built with Three.js",
+  "main": "static-server.js",
+  "scripts": {
+    "start": "node static-server.js"
+  },
+  "dependencies": {
+    "three": "^0.154.0",
+    "lil-gui": "^0.18.0"
+  }
+}
